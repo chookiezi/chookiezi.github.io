@@ -1,9 +1,14 @@
-
-@import url('//db.onlinewebfonts.com/c/10851f277d913a0868eb0ecf5e01fb29?family=Circe+Rounded+DM+Web');
-
+@font-face {
+    font-family: dmbold ;
+    src: url(fonts/bold.otf);
+}
+@font-face {
+    font-family: dmreg ;
+    src: url(fonts/regulat.otf);
+}
 
 body{
-    font-family: "Circe Rounded DM Web";
+    font-family: 'dmreg';
     margin: 0;
     padding: 0;
     background-color: #59A6F2;
